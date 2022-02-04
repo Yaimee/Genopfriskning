@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="PerfectMenu">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../PerfectMenu" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../PerfectMenu/src" />
+    </SOURCES>
+  </library>
+</component>
